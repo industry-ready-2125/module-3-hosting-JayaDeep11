@@ -1,0 +1,13 @@
+.list-menu {
+    list-style: none;
+    font-size: 14px;
+    padding: 200px 50px;
+}
+
+.list-menu h5 {
+    font-weight: bold;
+}
+
+li {
+    padding: 20px;
+}
